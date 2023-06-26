@@ -2,4 +2,3 @@ This is the first demo for git
 This is the 2nd line in the file 
 we have already commited the change 5 min befire
 Next change will be saved after a commit
-Hi Hrutik
